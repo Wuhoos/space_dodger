@@ -76,7 +76,7 @@ def main():
         star_count += clock.tick(60)
         elapsed_time = time.time() - start_time
         score = (round(elapsed_time, 2) * 100)
-        print(score)
+        # print(score)
 
         if star_count > star_add_increment:
             for _ in range(3):
