@@ -1,6 +1,5 @@
 
-# Space Dodger
-## Phase 3 Project
+# Space Dodger Project
 
 
 
