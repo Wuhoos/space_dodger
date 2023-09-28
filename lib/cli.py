@@ -30,7 +30,7 @@ def menu():
     print("Please select an option:")
     print("0. Exit the program")
     print("1. Login")
-    print('2. Lists of Players')
+    print('2. List of Players')
     print('3. Delete player by id')
 
 
