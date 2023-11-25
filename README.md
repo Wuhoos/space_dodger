@@ -2,7 +2,8 @@
 
 
 
-https://github.com/Wuhoos/space_dodger/assets/135660675/29b17fa7-d3a8-45d1-91d8-305de0827418
+![Screen Recording 2023-11-25 at 10 13 45 (2)](https://github.com/Wuhoos/space_dodger/assets/135660675/2d404854-243a-472f-88bf-83ec0966f66b)
+
 
 
 
